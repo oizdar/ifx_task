@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Account\Domain\ValueObject;
+namespace App\Tests\Account\Domain\ValueObject;
 
 use App\Account\Domain\ValueObject\Payment;
 use Money\Currency;

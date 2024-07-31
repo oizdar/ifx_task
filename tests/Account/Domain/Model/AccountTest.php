@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Account\Domain\Model;
+namespace App\Tests\Account\Domain\Model;
 
 use App\Account\Domain\Enum\TransactionType;
 use App\Account\Domain\Model\Account;
